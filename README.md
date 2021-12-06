@@ -5,4 +5,4 @@ The focus of this project is to develop a 3D Surface Plot visualization using Ne
 Technology stack: Nebula.js, Plotly.js, Qlik Sense SaaS.
 
 Result:
-![alt text](https://github.com/dipankarqlik/Nebula/blob/main/surface.png?raw=true)
+![alt text](https://github.com/dipankarqlik/QlikSense_Plotly/blob/main/surface.png?raw=true)
